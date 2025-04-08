@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 13,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1721191789,
+            "Text": "Great, I'll meet you <b>behind taco ticklers</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 11020939,
+            "Text": "Hello, I'm after 4x Sour Diesel. I can pay <color=#46CB4F>$205</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -652664830,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1675366801,
+            "Text": "Great, I'll meet you <b>behind the shipping containers near Sauerkraut Supreme</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1752652315,
+            "Text": "Hey, can I get 4x Sour Diesel? I'll pay <color=#46CB4F>$230</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -606191940,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1638191900,
+            "Text": "Great, I'll meet you <b>behind Thompson construction and demolition</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -189202882,
+            "Text": "Hey, can I get 3x Aspen Death? I'll pay <color=#46CB4F>$255</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1045224368,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1014388774,
+            "Text": "Great, I'll meet you <b>at the basketball court</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

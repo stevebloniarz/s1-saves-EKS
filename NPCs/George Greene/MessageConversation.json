@@ -1,0 +1,41 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 19,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -1542177076,
+            "Text": "Hello, I'm after 9x Sour Diesel. I can pay <color=#46CB4F>$430</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -418060219,
+            "Text": "Nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1610916166,
+            "Text": "You got 8x Sour Diesel? I'll pay <color=#46CB4F>$430</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1215261875,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1482067620,
+            "Text": "Great, I'll meet you <b>behind the western Gas Mart</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}

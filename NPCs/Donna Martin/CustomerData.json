@@ -1,0 +1,42 @@
+{
+    "DataType": "CustomerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Dependence": 0.06239999830722809,
+    "PurchaseableProducts": [
+        "sourdiesel"
+    ],
+    "ProductAffinities": [
+        1.0,
+        -0.27379047870635989,
+        0.25126001238822939
+    ],
+    "TimeSinceLastDealCompleted": 300,
+    "TimeSinceLastDealOffered": 349,
+    "OfferedDeals": 3,
+    "CompletedDeals": 4,
+    "IsContractOffered": false,
+    "OfferedContract": {
+        "Payment": 0.0,
+        "Products": {
+            "entries": []
+        },
+        "DeliveryLocationGUID": "",
+        "DeliveryWindow": {
+            "IsEnabled": false,
+            "WindowStartTime": 1200,
+            "WindowEndTime": 1800
+        },
+        "Expires": false,
+        "ExpiresAfter": 0,
+        "PickupScheduleIndex": 0,
+        "IsCounterOffer": false
+    },
+    "OfferedContractTime": {
+        "elapsedDays": 6,
+        "time": 2000
+    },
+    "TimeSincePlayerApproached": 1008106,
+    "TimeSinceInstantDealOffered": 1008106,
+    "HasBeenRecommended": false
+}

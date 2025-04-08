@@ -1,0 +1,48 @@
+{
+    "DataType": "CustomerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Dependence": 0.4000000059604645,
+    "PurchaseableProducts": [
+        "aspendeath"
+    ],
+    "ProductAffinities": [
+        0.23280000686645509,
+        1.0,
+        -0.27000001072883608
+    ],
+    "TimeSinceLastDealCompleted": 2471,
+    "TimeSinceLastDealOffered": 199,
+    "OfferedDeals": 4,
+    "CompletedDeals": 3,
+    "IsContractOffered": true,
+    "OfferedContract": {
+        "Payment": 305.0,
+        "Products": {
+            "entries": [
+                {
+                    "ProductID": "aspendeath",
+                    "Quality": 0,
+                    "Quantity": 4
+                }
+            ]
+        },
+        "DeliveryLocationGUID": "785abdf1-0a0c-4d48-99d7-b8adfa3e8e10",
+        "DeliveryWindow": {
+            "IsEnabled": true,
+            "WindowStartTime": 0,
+            "WindowEndTime": 0
+        },
+        "Expires": true,
+        "ExpiresAfter": 1,
+        "PickupScheduleIndex": 0,
+        "IsCounterOffer": false
+    },
+    "OfferedContractTime": {
+        "elapsedDays": 6,
+        "time": 2230
+    },
+    "TimeSincePlayerApproached": 8106,
+    "TimeSinceInstantDealOffered": 8106,
+    "HasBeenRecommended": false
+}

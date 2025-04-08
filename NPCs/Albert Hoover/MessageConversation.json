@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 17,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 2103906085,
+            "Text": "We've been working together for a while now, and you've proven to be quite reliable. ",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -759742139,
+            "Text": "If you're needing to order larger quantities of supplies, you can now organize an in-person meeting with me. Just send me a text.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1306766254,
+            "Text": "I've received $225 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1480247176,
+            "Text": "You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -287656222,
+            "Text": "The drop is ready. You can find it behind the western Gas-Mart",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1157136087,
+            "Text": "I need a dead drop:\n5x Granddaddy Purple Seed",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1843658621,
+            "Text": "Working on it. Should be ready in around 2 hours 30 min",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2096967254,
+            "Text": "I've received $96 cash from you. Your debt is now $129",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1478881744,
+            "Text": "I've received $129 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1283409152,
+            "Text": "The drop is ready. You can find it on the east-exterior wall of Taco Ticklers",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

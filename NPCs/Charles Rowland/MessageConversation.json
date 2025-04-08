@@ -1,0 +1,29 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 11,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -1026648143,
+            "Text": "Hello, I'm after 2x Aspen Death. I can pay <color=#46CB4F>$170</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1753407266,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1794367949,
+            "Text": "Alright cool, I'll meet you <b>under the west bridge</b> between 12:00 PM and 6:00 PM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

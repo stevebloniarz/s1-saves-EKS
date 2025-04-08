@@ -1,0 +1,42 @@
+{
+    "DataType": "CustomerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "Dependence": 0.27059999108314516,
+    "PurchaseableProducts": [
+        "aspendeath"
+    ],
+    "ProductAffinities": [
+        1.0,
+        0.6600000262260437,
+        0.25999999046325686
+    ],
+    "TimeSinceLastDealCompleted": 474,
+    "TimeSinceLastDealOffered": 689,
+    "OfferedDeals": 2,
+    "CompletedDeals": 2,
+    "IsContractOffered": false,
+    "OfferedContract": {
+        "Payment": 0.0,
+        "Products": {
+            "entries": []
+        },
+        "DeliveryLocationGUID": "",
+        "DeliveryWindow": {
+            "IsEnabled": false,
+            "WindowStartTime": 1200,
+            "WindowEndTime": 1800
+        },
+        "Expires": false,
+        "ExpiresAfter": 0,
+        "PickupScheduleIndex": 0,
+        "IsCounterOffer": false
+    },
+    "OfferedContractTime": {
+        "elapsedDays": 6,
+        "time": 1420
+    },
+    "TimeSincePlayerApproached": 1008106,
+    "TimeSinceInstantDealOffered": 1008106,
+    "HasBeenRecommended": false
+}

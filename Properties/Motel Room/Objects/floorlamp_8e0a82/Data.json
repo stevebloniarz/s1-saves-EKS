@@ -1,0 +1,15 @@
+{
+    "DataType": "ToggleableItemData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "GUID": "8e0a8255-7771-4548-9c8b-c214f458e22a",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.3f12\",\n    \"ID\": \"floorlamp\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "efc3aaed-d40e-4075-8fc5-79664c851628",
+    "OriginCoordinate": {
+        "x": 5.0,
+        "y": 11.0
+    },
+    "Rotation": -180,
+    "IsOn": false
+}

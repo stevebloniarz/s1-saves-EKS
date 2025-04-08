@@ -1,0 +1,28 @@
+{
+    "DataType": "DeaddropQuestData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "GUID": "7bfce0da-1759-48e5-bbff-ec7bee6b6654",
+    "State": 2,
+    "IsTracked": true,
+    "Title": "Collect Dead Drop",
+    "Description": "Collect the dead drop behind the western Gas-Mart",
+    "Expires": false,
+    "ExpiryDate": {
+        "DataType": "GameDateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.3f12",
+        "ElapsedDays": 0,
+        "Time": 0
+    },
+    "Entries": [
+        {
+            "DataType": "QuestEntryData",
+            "DataVersion": 0,
+            "GameVersion": "0.3.3f12",
+            "Name": "Behind Gas-Mart",
+            "State": 2
+        }
+    ],
+    "DeaddropGUID": "64d10032-64a9-4cd9-8750-8048d71c5029"
+}

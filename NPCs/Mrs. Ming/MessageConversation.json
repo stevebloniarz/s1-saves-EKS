@@ -1,0 +1,47 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.3f12",
+    "ConversationIndex": 22,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1074914040,
+            "Text": "Hello, I'm after 2x Sour Diesel. I can pay <color=#46CB4F>$115</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -324039312,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 31162780,
+            "Text": "Great, I'll meet you <b>next to the barbershop</b> between 6:00 PM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1269078529,
+            "Text": "Hello, I'm after 3x Sour Diesel. I can pay <color=#46CB4F>$155</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 108634104,
+            "Text": "Nevermind",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -258788479,
+            "Text": "nvm",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": true
+}
